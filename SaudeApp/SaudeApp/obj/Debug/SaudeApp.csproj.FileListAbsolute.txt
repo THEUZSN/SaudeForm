@@ -1,0 +1,10 @@
+C:\myProjects\C#\SaudeApp\SaudeApp\bin\Debug\SaudeApp.exe.config
+C:\myProjects\C#\SaudeApp\SaudeApp\bin\Debug\SaudeApp.exe
+C:\myProjects\C#\SaudeApp\SaudeApp\bin\Debug\SaudeApp.pdb
+C:\myProjects\C#\SaudeApp\SaudeApp\obj\Debug\SaudeApp.csproj.AssemblyReference.cache
+C:\myProjects\C#\SaudeApp\SaudeApp\obj\Debug\SaudeApp.Form1.resources
+C:\myProjects\C#\SaudeApp\SaudeApp\obj\Debug\SaudeApp.Properties.Resources.resources
+C:\myProjects\C#\SaudeApp\SaudeApp\obj\Debug\SaudeApp.csproj.GenerateResource.cache
+C:\myProjects\C#\SaudeApp\SaudeApp\obj\Debug\SaudeApp.csproj.CoreCompileInputs.cache
+C:\myProjects\C#\SaudeApp\SaudeApp\obj\Debug\SaudeApp.exe
+C:\myProjects\C#\SaudeApp\SaudeApp\obj\Debug\SaudeApp.pdb
